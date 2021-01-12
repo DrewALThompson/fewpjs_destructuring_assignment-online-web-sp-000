@@ -4,6 +4,8 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 
 const [Bessie, , Dolly, Babe, Little] = farmAnimals.split(' ');
 
+const [black_and_white, ]
+
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const muppet = {
