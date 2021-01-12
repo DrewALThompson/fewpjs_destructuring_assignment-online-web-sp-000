@@ -4,6 +4,8 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
+const 
+
 const muppet = {
   name: 'Kermit',
   color: 'green',
